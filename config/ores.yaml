@@ -11,10 +11,10 @@ scorers:
     extractor: ptwiki_api
     models:
       reverted: ptwiki_revert
-  fawiki:
-    extractor: fawiki_api
-    models:
-      reverted: fawiki_revert
+#  fawiki:
+#    extractor: fawiki_api
+#    models:
+#      reverted: fawiki_revert
 #  trwiki:
 #    extractor: trwiki_api
 #    models:
